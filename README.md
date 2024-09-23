@@ -1,5 +1,5 @@
 <p align="center">
-<img src='https://zennashop.com/wp-content/uploads/2022/11/1.png' style="height:150px;width:150px;" >
+<img src='images.png' style="height:150px;width:150px;" >
 
 # PDF RAT + HVNC
 
@@ -10,12 +10,10 @@ Hack any operating system send PDF exploit
 # Buy now
 
 
-   [Download](https://telegram.me/ampleadminrat)
+   [Download](https://telegram.me/+pQMbnJmDILthZjY9)
 |:------------- |
 
-  https://zennashop.com/product/pdf-rat-hvnc/
-  
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a6ba226017e2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 
   
 
